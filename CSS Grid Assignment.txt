@@ -1,0 +1,26 @@
+Video explaination:- 
+ In the video,he explained how it was difficult to external libraries like bootstrap etc. to make
+ our webpage resposive and attractive so, he told us how to use css .i.e. grids & flex to make
+  responsive webpage without using external libary's like bootstrap. He also explained us
+  the difference between grid, flex &  float and also how to use them smartly to create a responsive 
+  webpage ,he explained that by looking any webpage just breakdown into smaller parts or sections
+  like header, sidepart, footer etc.  and design the gird on the 
+  basis of webpage . He explains grid terminology like grid container, item , line,cell, grid track, 
+  area and gap. And how to use it ,and apply to grid item start and end lines for rows and columns, 
+  continuing with appling the div width grid area by giving them the names. He explained how to use
+  Grid-template-areas wisely to make grids for your webpage.
+  He explains in how many browsers grids supported like internet explorer and edge,
+  for using and knowing how grid works the best browser to be used is firefox case there in a icon in
+  inspect whick shows the grid lines, which helps us to understand, he gaves us advice that 
+  first to make webpage for mobile then go for further devices and add appropriate break point in
+  creating layout on grid and grid area,he also gave us some advices like , accessabilty,fancy
+  make sure the fancy doesn't break the acessability.
+
+
+Questions -->  When to use grid and flex?
+- Grid is basicslly used in multi dimentional format like column or rows which helps us to build the good pages
+  for example it can be used in some E-Commerce website to show          
+  the products in rows and columns format not only in e-commerce it can be used to show and some content or 
+  items which may be in rows and colums. And coming to flex it used in only one direction either it may 
+  be used in row or colums, and it has also some features such as flex-direction, justify content. 
+  a good example for flex can be the navbar and footer where contents are arranged using the flex property.
